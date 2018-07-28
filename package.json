@@ -1,0 +1,15 @@
+{
+  "name": "io-chat",
+  "version": "1.0.0",
+  "description": "it 's a chat application based on socket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaouch Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
